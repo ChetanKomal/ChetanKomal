@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChetanKomal
-- 👀 I’m interested in Python, C and Cybersecurity
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, C ,Java , Flutter and Cybersecurity
+- 🌱 I’m currently learning Python and Dart
 
 <!---
 ChetanKomal/ChetanKomal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
