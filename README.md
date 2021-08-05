@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChetanKomal
-- 👀 I’m interested in Python, C ,Java , Flutter and Cybersecurity
+- 👀 I’m interested in Python, C ,Java , Flutter, Dart and Cybersecurity
 - 🌱 I’m currently learning Python and Dart
 
 <!---
