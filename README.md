@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Android Dev.**
 
-- 👨‍💻 Visit my Website [chetankomal.github.io](chetankomal.github.io)
+- 👨‍💻 Visit my Website [chetankomal.me](chetankomal.me)
 
 - 📫 How to reach me **ck.verma0786@gmail.com**
 <hr>
