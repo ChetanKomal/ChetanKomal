@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetankomal&label=Profile%20views&color=0e75b6&style=flat" alt="chetankomal" /> </p>
 
-- 🌱 I’m currently learning **Python and Android Dev.**
+- 🌱 I’m currently learning **Android Dev.**
 
 - 👨‍💻 Visit my Website <a href="https://chetankomal.me" target="blank">chetankomal.me</a>
 
